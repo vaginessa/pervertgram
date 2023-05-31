@@ -6,7 +6,7 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-Flask = "==1.0.2"
+Flask = "==2.2.5"
 instagram-private-api = {editable = true,git = "https://git@github.com/ping/instagram_private_api.git",ref = "1.6.0"}
 
 [requires]
